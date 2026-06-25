@@ -10,6 +10,7 @@
   --white: rgb(var(--white-raw));
   background-color: var(--black);
   color: var(--white);
+  font-family: "Inter", sans-serif;
 }
 
 @media (prefers-color-scheme: light) {
